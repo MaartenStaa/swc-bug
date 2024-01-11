@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/react": "^18.2.47"
+  },
+  "dependencies": {
+    "lottie-web": "^5.12.2",
+    "react": "^18.2.0"
+  }
+}
